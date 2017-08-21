@@ -1,0 +1,17 @@
+{
+  "package_name": "etherdonation",
+  "version": "1.0.0",
+  "description": "Smart Contract and DApp for donations",
+  "authors": [
+    "Robert Greenfield <rogreen@umich.edu>"
+  ],
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "dapp",
+    "donations"
+  ],
+  "license": "MIT"
+}
